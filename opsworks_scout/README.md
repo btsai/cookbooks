@@ -4,11 +4,11 @@
 
 Custom cookbook for OpsWorks
 
-Main changes from the Scout original Chef recipe:
-1. Tweaks for using in OpsWorks
-2. Pull in API key and other settings from Opsworks Custom JSON
+Main changes from the Scout original Chef recipe:  
+1. Tweaks for using in OpsWorks  
+2. Pull in API key and other settings from Opsworks Custom JSON  
 
-Install your custom cookbook repo on git (or elsewhere):
+Install your custom cookbook repo on git (or elsewhere):  
 http://docs.aws.amazon.com/opsworks/latest/userguide/workingcookbook-installingcustom-enable.html
 
 Make tweaks to settings in attributes/default.rb, as you see fit.
